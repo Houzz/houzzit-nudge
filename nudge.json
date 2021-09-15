@@ -12,8 +12,8 @@
               "aboutUpdateURL": "https://drive.google.com/file/d/1yNcJVMzrPKx5KTNWcXx7waOMULureOjT/view?usp=sharing"
             }
           ],
-          "requiredInstallationDate": "2021-08-11T00:00:00Z",
-          "requiredMinimumOSVersion": "11.5.1",
+          "requiredInstallationDate": "2021-09-23T00:00:00Z",
+          "requiredMinimumOSVersion": "11.6",
           "targetedOSVersions": [
             "11.0",
             "11.0.1",
@@ -25,7 +25,9 @@
             "11.3",
             "11.3.1",
             "11.4",
-	    "11.5"
+	    "11.5",
+	    "11.5.1",
+	    "11.5.2",
 		]
 	  }
 	],
