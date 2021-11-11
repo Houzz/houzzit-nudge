@@ -9,10 +9,10 @@
           "aboutUpdateURLs": [
             {
               "_language": "en",
-              "aboutUpdateURL": "https://hit-ops.s3.us-west-2.amazonaws.com/videos/update.mp4"
+              "aboutUpdateURL": "https://toolbox.houzz.com/a/solutions/articles/10000065833"
             }
           ],
-          "requiredInstallationDate": "2021-11-25T23:59:00Z",
+          "requiredInstallationDate": "2021-11-16T23:59:00Z",
           "requiredMinimumOSVersion": "11.6.1",
           "targetedOSVersions": [
             "11.0",
@@ -59,7 +59,7 @@
             "mainContentHeader": "This update requires your device to restart",
             "mainContentNote": "Urgent Update Required",
             "mainContentSubHeader": "Updates can take around 30 minutes to complete.",
-            "mainContentText": "Your Houzz issued device requires a fully up-to-date operating system to ensure that IT can accurately protect your device.\n\nAs soon as you are able, please save your work and install updates.\n\nIf you have any questions, submit a ticket at https://toolbox.houzz.com/support/home.",
+            "mainContentText": "Your Houzz issued device requires a fully up-to-date operating system to ensure that IT can accurately protect your device.\n\nAs soon as you are able, please save your work and install updates.\n\nPlease click the “How To Update?” link on the bottom left for a Toolbox article with a video and screenshots\n\nIf you have any questions, submit a ticket at https://toolbox.houzz.com/support/home.",
             "mainHeader": "Action Required - Your device requires a security update",
             "primaryQuitButtonText": "Ask Me Later",
             "secondaryQuitButtonText": "I Understand",
