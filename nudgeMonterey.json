@@ -1,0 +1,59 @@
+{
+	"optionalFeatures": {
+	  "asyncronousSoftwareUpdate": false,
+	  "attemptToFetchMajorUpgrade": false,
+	  "enforceMinorUpdates": true
+	},
+	"osVersionRequirements": [
+        {
+          "aboutUpdateURLs": [
+            {
+              "_language": "en",
+              "aboutUpdateURL": "https://toolbox.houzz.com/a/solutions/articles/10000065833"
+            }
+          ],
+          "requiredInstallationDate": "2021-11-16T23:59:00Z",
+          "requiredMinimumOSVersion": "12.1",
+          "targetedOSVersions": [
+            "12.0",
+            "12.0.1",
+            
+		]
+	  }
+	],
+	"userExperience": {
+	  "allowedDeferrals": 40,
+	  "allowedDeferralsUntilForcedSecondaryQuitButton": 14,
+	  "approachingRefreshCycle": 6000,
+	  "approachingWindowTime": 72,
+	  "elapsedRefreshCycle": 300,
+	  "imminentRefreshCycle": 6000,
+	  "imminentWindowTime": 24,
+	  "initialRefreshCycle": 18000,
+	  "maxRandomDelayInSeconds": 1200,
+	  "noTimers": false,
+	  "nudgeRefreshCycle": 300,
+	  "randomDelay": false
+	},
+	"userInterface": {
+        "simpleMode": false,
+        "iconDarkPath": "/usr/local/houzzit/Houzz_s_rgb_512x512.png",
+        "iconLightPath": "/usr/local/houzzit/Houzz_s_rgb_512x512.png",
+        "forceScreenShotIcon": false,
+        "updateElements": [
+          {
+            "_language": "en",
+            "actionButtonText": "Update Device",
+            "informationButtonText": "How To Update?",
+            "mainContentHeader": "This update requires your device to restart",
+            "mainContentNote": "Urgent Update Required\n\nPlease click the “How To Update?” link on the bottom left for a Toolbox article with a video and screenshots of how to proceed with the update.",
+            "mainContentSubHeader": "Updates can take around 30 minutes to complete.",
+            "mainContentText": "Your Houzz issued device requires a fully up-to-date operating system to ensure that IT can accurately protect your device.\n\nAs soon as you are able, please save your work and install updates.\n\nIf you have any questions, submit a ticket at https://toolbox.houzz.com/support/home.",
+            "mainHeader": "Action Required - Your device requires a security update",
+            "primaryQuitButtonText": "Ask Me Later",
+            "secondaryQuitButtonText": "I Understand",
+            "subHeader": "A friendly reminder from your Houzz IT team"
+		}
+	  ]
+	}
+}
