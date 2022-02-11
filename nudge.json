@@ -8,13 +8,13 @@
     {
       "aboutUpdateURL": "https://toolbox.houzz.com/a/solutions/articles/10000065833",
       "requiredInstallationDate": "2022-02-11T00:00:00Z",
-      "requiredMinimumOSVersion": "11.6.3",
+      "requiredMinimumOSVersion": "11",
       "targetedOSVersionsRule": "11"
     },
     {
       "aboutUpdateURL": "https://toolbox.houzz.com/a/solutions/articles/10000067140",
       "requiredInstallationDate": "2022-02-11T00:00:00Z",
-      "requiredMinimumOSVersion": "12.2",
+      "requiredMinimumOSVersion": "12",
       "targetedOSVersionsRule": "12"
     }
 	],
