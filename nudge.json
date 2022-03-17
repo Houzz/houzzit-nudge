@@ -5,32 +5,18 @@
 	  "enforceMinorUpdates": true
 	},
 	"osVersionRequirements": [
-        {
-          "aboutUpdateURLs": [
-            {
-              "_language": "en",
-              "aboutUpdateURL": "https://toolbox.houzz.com/a/solutions/articles/10000065833"
-            }
-          ],
-          "requiredInstallationDate": "2021-11-16T23:59:00Z",
-          "requiredMinimumOSVersion": "11.6.1",
-          "targetedOSVersions": [
-            "11.0",
-            "11.0.1",
-            "11.1",
-            "11.2",
-            "11.2.1",
-            "11.2.2",
-            "11.2.3",
-            "11.3",
-            "11.3.1",
-            "11.4",
-	    "11.5",
-	    "11.5.1",
-	    "11.5.2",
-	    "11.6"
-		]
-	  }
+    {
+      "aboutUpdateURL": "https://toolbox.houzz.com/a/solutions/articles/10000065833",
+      "requiredInstallationDate": "2022-04-01T00:00:00Z",
+      "requiredMinimumOSVersion": "11",
+      "targetedOSVersionsRule": "11"
+    },
+    {
+      "aboutUpdateURL": "https://toolbox.houzz.com/a/solutions/articles/10000067140",
+      "requiredInstallationDate": "2022-04-01T00:00:00Z",
+      "requiredMinimumOSVersion": "12",
+      "targetedOSVersionsRule": "12"
+    }
 	],
 	"userExperience": {
 	  "allowedDeferrals": 40,
@@ -47,23 +33,23 @@
 	  "randomDelay": false
 	},
 	"userInterface": {
-        "simpleMode": false,
-        "iconDarkPath": "/usr/local/houzzit/Houzz_s_rgb_512x512.png",
-        "iconLightPath": "/usr/local/houzzit/Houzz_s_rgb_512x512.png",
-        "forceScreenShotIcon": false,
-        "updateElements": [
-          {
-            "_language": "en",
-            "actionButtonText": "Update Device",
-            "informationButtonText": "How To Update?",
-            "mainContentHeader": "This update requires your device to restart",
-            "mainContentNote": "Urgent Update Required\n\nPlease click the “How To Update?” link on the bottom left for a Toolbox article with a video and screenshots of how to proceed with the update.",
-            "mainContentSubHeader": "Updates can take around 30 minutes to complete.",
-            "mainContentText": "Your Houzz issued device requires a fully up-to-date operating system to ensure that IT can accurately protect your device.\n\nAs soon as you are able, please save your work and install updates.\n\nIf you have any questions, submit a ticket at https://toolbox.houzz.com/support/home.",
-            "mainHeader": "Action Required - Your device requires a security update",
-            "primaryQuitButtonText": "Ask Me Later",
-            "secondaryQuitButtonText": "I Understand",
-            "subHeader": "A friendly reminder from your Houzz IT team"
+		"simpleMode": false,
+		"iconDarkPath": "/usr/local/houzzit/Houzz_s_rgb_512x512.png",
+		"iconLightPath": "/usr/local/houzzit/Houzz_s_rgb_512x512.png",
+		"forceScreenShotIcon": false,
+		"updateElements": [
+			{
+				"_language": "en",
+				"actionButtonText": "Update Device",
+				"informationButtonText": "How To Update?",
+				"mainContentHeader": "This update requires your device to restart",
+				"mainContentNote": "Urgent Update Required\n\nPlease click the “How To Update?” link on the bottom left for a Toolbox article with a video and screenshots of how to proceed with the update.",
+				"mainContentSubHeader": "Updates can take around 30 minutes to complete.",
+				"mainContentText": "Your Houzz issued device requires a fully up-to-date operating system to ensure that IT can accurately protect your device.\n\nAs soon as you are able, please save your work and install updates.\n\nIf you would prefer to upgrade to Monterey from Big Sur, please open Self Service and select Upgrade to Monterey.\n\n**IMPORTANT NOTE** Upgrading to Monterey can take up to 1 hour.\n\nIf you have any questions, submit a ticket at https://toolbox.houzz.com/support/home.",
+				"mainHeader": "Action Required - Your device requires a security update",
+				"primaryQuitButtonText": "Ask Me Later",
+				"secondaryQuitButtonText": "I Understand",
+				"subHeader": "A friendly reminder from your Houzz IT team"
 		}
 	  ]
 	}
