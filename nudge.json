@@ -1,24 +1,29 @@
 {
 	"optionalFeatures": {
 	  "asyncronousSoftwareUpdate": false,
+	  "acceptableApplicationBundleIDs":[
+	    "us.zoom.xos"
+	    ],
 	  "attemptToFetchMajorUpgrade": false,
+	  "aggressiveUserExperience": false,
 	  "enforceMinorUpdates": true
 	},
 	"osVersionRequirements": [
     {
       "aboutUpdateURL": "https://toolbox.houzz.com/a/solutions/articles/10000065833",
       "requiredInstallationDate": "2022-04-01T00:00:00Z",
-      "requiredMinimumOSVersion": "11",
+      "requiredMinimumOSVersion": "11.6.5",
       "targetedOSVersionsRule": "11"
     },
     {
       "aboutUpdateURL": "https://toolbox.houzz.com/a/solutions/articles/10000067140",
       "requiredInstallationDate": "2022-04-01T00:00:00Z",
-      "requiredMinimumOSVersion": "12",
+      "requiredMinimumOSVersion": "12.3",
       "targetedOSVersionsRule": "12"
     }
 	],
 	"userExperience": {
+	  "allowUserQuitDeferrals": true,
 	  "allowedDeferrals": 40,
 	  "allowedDeferralsUntilForcedSecondaryQuitButton": 14,
 	  "approachingRefreshCycle": 6000,
@@ -30,6 +35,7 @@
 	  "maxRandomDelayInSeconds": 1200,
 	  "noTimers": false,
 	  "nudgeRefreshCycle": 300,
+	  "allowGracePeriods": true,
 	  "randomDelay": false
 	},
 	"userInterface": {
@@ -43,9 +49,9 @@
 				"actionButtonText": "Update Device",
 				"informationButtonText": "How To Update?",
 				"mainContentHeader": "This update requires your device to restart",
-				"mainContentNote": "Urgent Update Required\n\nPlease click the “How To Update?” link on the bottom left for a Toolbox article with a video and screenshots of how to proceed with the update.",
+				"mainContentNote": "Urgent Update Required\n\nPlease click the “How To Update?” link on the bottom left for a Toolbox article with a video and instructions how to proceed with the update or upgrade.",
 				"mainContentSubHeader": "Updates can take around 30 minutes to complete.",
-				"mainContentText": "Your Houzz issued device requires a fully up-to-date operating system to ensure that IT can accurately protect your device.\n\nAs soon as you are able, please save your work and install updates.\n\nIf you would prefer to upgrade to Monterey from Big Sur, please open Self Service and select Upgrade to Monterey.\n\n**IMPORTANT NOTE** Upgrading to Monterey can take up to 1 hour.\n\nIf you have any questions, submit a ticket at https://toolbox.houzz.com/support/home.",
+				"mainContentText": "Your Houzz issued device requires a fully up-to-date operating system to ensure that IT can accurately protect your device.\n\nAs soon as you are able, please save and back up your work and install updates.\n\nIf you have any questions, submit a ticket at https://toolbox.houzz.com/support/home.",
 				"mainHeader": "Action Required - Your device requires a security update",
 				"primaryQuitButtonText": "Ask Me Later",
 				"secondaryQuitButtonText": "I Understand",
