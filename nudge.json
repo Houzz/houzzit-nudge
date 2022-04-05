@@ -58,5 +58,6 @@
 				"subHeader": "A friendly reminder from your Houzz IT team"
 		}
 	  ]
+	"actionButtonPath": "jamfselfservice://content?entity=policy&id=2448&action=execute"
 	}
 }
