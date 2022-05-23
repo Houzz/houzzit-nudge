@@ -1,0 +1,35 @@
+{
+    "preferences": {
+        "button_title_text": "Ready to start the update?",
+        "button_sub_titletext": "Click on the button below.",
+        "cut_off_date": "2022-04-29-00:00",
+        "cut_off_date_warning": 14,
+        "days_between_notifications": 0,
+        "logo_path": "/usr/local/houzzit/Houzz_s_rgb_512x512.png",
+        "main_subtitle_text": "This update requires your device to restart",
+        "main_title_text": "Action Required - Your device requires a security update",
+        "minimum_os_sub_build_version": "20G624",
+        "minimum_os_version": "11.6.6",
+        "more_info_url": "https://toolbox.houzz.com/a/solutions/articles/10000067140",
+        "no_timer": false,
+        "paragraph1_text": "Your Houzz issued device requires a fully up-to-date operating system to ensure that IT can accurately protect your device.",
+        "paragraph2_text": "As soon as you are able, please save and back up your work and install updates.",
+        "paragraph3_text": "If you have any questions, submit a ticket at https://toolbox.houzz.com/support/home.",
+        "paragraph_title_text": "Urgent Update Required\n\nPlease click the “How To Update?” link on the bottom left for a Toolbox article with a video and instructions how to proceed with the update or upgrade.",
+        "path_to_app": "/Applications/Install macOS Big Sur.app",
+        "local_url_for_upgrade": "jamfselfservice://content?entity=policy&id=2448&action=execute"
+        "random_delay": false,
+        "screenshot_path": "/usr/local/houzzit/houzzitnudge/update_ss.png",
+        "timer_day_1": 600,
+        "timer_day_3": 7200,
+        "timer_elapsed": 10,
+        "timer_final": 60,
+        "timer_initial": 14400,
+        "update_minor": false,
+        "update_minor_days": 14
+    },
+    "software_updates": [{
+        "name": "091-22861",
+        "force_install_date": "2022-05-30-00:00"
+    }]
+}
