@@ -25,7 +25,8 @@
         "timer_final": 60,
         "timer_initial": 14400,
         "update_minor": false,
-        "update_minor_days": 14
+        "update_minor_days": 14,
+        "path_to_app": "/Applications/Install macOS Monterey.app"
     },
     "software_updates": [{
         "name": "091-22861",
