@@ -7,7 +7,7 @@
         "days_between_notifications": 0,
         "logo_path": "/usr/local/houzzit/Houzz_s_rgb_512x512.png",
         "main_subtitle_text": "A friendly reminder from the Houzz IT Team",
-        "main_title_text": "Action Required - Your device requires a security update",
+        "main_title_text": "Security Update Required",
         "minimum_os_sub_build_version": "21F79",
         "minimum_os_version": "12.4",
         "more_info_url": "https://google.com",
