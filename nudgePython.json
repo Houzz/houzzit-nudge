@@ -18,7 +18,7 @@
         "paragraph_title_text": "Action Required - Your device requires a security update.",
         "path_to_app": "/Applications/Install macOS Monterey.app",
         "random_delay": false,
-        "screenshot_path": "/path/to/update_ss.png",
+        "screenshot_path": "/library/nudge/resources/update_ss.png",
         "timer_day_1": 600,
         "timer_day_3": 7200,
         "timer_elapsed": 10,
