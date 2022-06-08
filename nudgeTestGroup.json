@@ -5,6 +5,7 @@
 	    "us.zoom.xos"
 	    ],
 	  "attemptToFetchMajorUpgrade": false,
+	  "aggressiveUserExperience": false,
 	  "enforceMinorUpdates": true
 	},
 	"osVersionRequirements": [
@@ -22,6 +23,8 @@
     }
   ],
 	"userExperience": {
+	  "actionButtonPath": "jamfselfservice://content?entity=policy&id=2448&action=execute",
+	  "allowUserQuitDeferrals": true,
 	  "allowedDeferrals": 40,
 	  "allowedDeferralsUntilForcedSecondaryQuitButton": 14,
 	  "approachingRefreshCycle": 6000,
