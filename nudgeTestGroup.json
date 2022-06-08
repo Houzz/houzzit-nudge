@@ -23,7 +23,6 @@
     }
   ],
 	"userExperience": {
-	  "actionButtonPath": "jamfselfservice://content?entity=policy&id=2448&action=execute",
 	  "allowUserQuitDeferrals": true,
 	  "allowedDeferrals": 40,
 	  "allowedDeferralsUntilForcedSecondaryQuitButton": 14,
@@ -40,6 +39,7 @@
 	  "randomDelay": false
 	},
 	"userInterface": {
+	"actionButtonPath": "jamfselfservice://content?entity=policy&id=2448&action=execute",
         "simpleMode": false,
         "iconDarkPath": "/usr/local/houzzit/Houzz_s_rgb_512x512.png",
         "iconLightPath": "/usr/local/houzzit/Houzz_s_rgb_512x512.png",
