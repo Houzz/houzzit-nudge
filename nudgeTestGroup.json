@@ -7,7 +7,7 @@
 	  "attemptToFetchMajorUpgrade": false,
 	  "aggressiveUserExperience": false,
 	  "aggressiveUserFullScreenExperience": false,
-	  "acceptableCamerUsage": true,
+	  "acceptableCameraUsage": true,
 	  "enforceMinorUpdates": true
 	},
 	"osVersionRequirements": [
