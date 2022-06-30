@@ -5,7 +5,7 @@
 	    "us.zoom.xos"
 	    ],
 	  "attemptToFetchMajorUpgrade": false,
-	  "aggressiveUserExperience": false,
+	  "aggressiveUserExperience": true,
 	  "aggressiveUserFullScreenExperience": false,
 	  "acceptableCameraUsage": true,
 	  "enforceMinorUpdates": true
