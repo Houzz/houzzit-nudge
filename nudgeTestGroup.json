@@ -6,6 +6,8 @@
 	    ],
 	  "attemptToFetchMajorUpgrade": false,
 	  "aggressiveUserExperience": false,
+	  "aggressiveUserFullScreenExperience": false,
+	  "acceptableCamerUsage": true,
 	  "enforceMinorUpdates": true
 	},
 	"osVersionRequirements": [
