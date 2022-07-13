@@ -17,7 +17,7 @@
         "paragraph3_text": "To begin the update, simply click on the button below and follow the provided steps. This update requires your device to restart",
         "paragraph_title_text": "Action Required - Your device requires a security update.",
         "path_to_app": "/Applications/Install macOS Monterey.app",
-        "local_url_for_upgrade": "jamfselfservice://content?entity=policy&id=2448&action=execute"
+        "local_url_for_upgrade": "jamfselfservice://content?entity=policy&id=2448&action=execute",
         "random_delay": false,
         "screenshot_path": "/library/nudge/resources/update_ss.png",
         "timer_day_1": 600,
