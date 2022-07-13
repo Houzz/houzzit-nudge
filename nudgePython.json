@@ -27,9 +27,5 @@
         "timer_initial": 14400,
         "update_minor": false,
         "update_minor_days": 14
-    },
-    "software_updates": [{
-        "name": "091-22861",
-        "force_install_date": "2022-07-31-00:00"
-    }]
+    }
 }
