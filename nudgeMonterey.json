@@ -13,14 +13,14 @@
 	"osVersionRequirements": [
     {
       "aboutUpdateURL": "https://toolbox.houzz.com/a/solutions/articles/10000065833",
-      "requiredInstallationDate": "2022-06-28T00:00:00Z",
-      "requiredMinimumOSVersion": "11.6.7",
+      "requiredInstallationDate": "2022-11-28T00:00:00Z",
+      "requiredMinimumOSVersion": "11.7.1",
       "targetedOSVersionsRule": "11"
     },
     {
       "aboutUpdateURL": "https://toolbox.houzz.com/a/solutions/articles/10000067140",
-      "requiredInstallationDate": "2022-06-28T00:00:00Z",
-      "requiredMinimumOSVersion": "12.4",
+      "requiredInstallationDate": "2022-11-28T00:00:00Z",
+      "requiredMinimumOSVersion": "12.6.1",
       "targetedOSVersionsRule": "12"
     }
   ],
@@ -41,7 +41,7 @@
 	  "randomDelay": false
 	},
 	"userInterface": {
-	"actionButtonPath": "jamfselfservice://content?entity=policy&id=2448&action=execute",
+	"actionButtonPath": "file:///Applications/Utilities/LoadingAvailableUpdates_v2.app",
         "simpleMode": false,
         "iconDarkPath": "/usr/local/houzzit/Houzz_s_rgb_512x512.png",
         "iconLightPath": "/usr/local/houzzit/Houzz_s_rgb_512x512.png",
