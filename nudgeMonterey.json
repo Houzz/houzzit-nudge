@@ -45,7 +45,9 @@
         "simpleMode": false,
         "iconDarkPath": "/usr/local/houzzit/Houzz_s_rgb_512x512.png",
         "iconLightPath": "/usr/local/houzzit/Houzz_s_rgb_512x512.png",
-        "forceScreenShotIcon": false,
+        "forceScreenShotIcon": true,
+	"screenShotDarkPath": "/usr/local/houzzit/SWUSSDark.png",
+	"screenShotLightPath": "/usr/local/houzzit/SWUSSLight.png",
         "updateElements": [
           {
 				"_language": "en",
@@ -54,7 +56,7 @@
 				"mainContentHeader": "This update requires your device to restart",
 				"mainContentNote": "Urgent Update Required\n\nPlease click the “How To Update?” link on the bottom left for a Toolbox article with a video and instructions how to proceed with the update or upgrade.",
 				"mainContentSubHeader": "Updates can take around an hour to complete.",
-				"mainContentText": "Your Houzz issued device requires a fully up-to-date operating system to ensure that IT can accurately protect your device.\n\nAs soon as you are able, please save and back up your work and install updates.\n\nIf you have any questions, submit a ticket at https://toolbox.houzz.com/support/home.",
+				"mainContentText": "Your Houzz issued device requires a fully up-to-date operating system to ensure that IT can accurately protect your device.\n\nAs soon as you are able, please save and back up your work and install updates.\n\nWhen you reach the software update screen please click **More Info...**\n\nIf you have any questions, submit a ticket at https://toolbox.houzz.com/support/home.",
 				"mainHeader": "Action Required - Your device requires a security update",
 				"primaryQuitButtonText": "Ask Me Later",
 				"secondaryQuitButtonText": "I Understand",
