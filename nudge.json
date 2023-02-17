@@ -25,10 +25,10 @@
     },
     {
       "aboutUpdateURL": "https://toolbox.houzz.com/a/solutions/articles/10000067140",
-      "requiredInstallationDate": "2023-02-21T00:00:00Z",
-      "requiredMinimumOSVersion": "13.2",
+      "requiredInstallationDate": "2023-02-23T00:00:00Z",
+      "requiredMinimumOSVersion": "13.2.1",
       "targetedOSVersionsRule": "13"
-    }
+    }	
   ],
 	"userExperience": {
 	  "allowUserQuitDeferrals": true,
