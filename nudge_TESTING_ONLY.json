@@ -55,7 +55,7 @@
           {
 				"_language": "en",
 				"actionButtonText": "Update Device",
-				"informationButtonText": "How To Update?",
+				"informationButtonText": ">> UPGRADE <<",
 				"mainContentHeader": "This update requires your device to restart",
 				"mainContentNote": "Please click the “How To Update?” link on the bottom left for a Toolbox article with a video and instructions how to proceed with the update or upgrade.",
 				"mainContentSubHeader": "Updates can take around an hour to complete.",
