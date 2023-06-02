@@ -26,7 +26,7 @@
     {
       "aboutUpdateURL": "https://toolbox.houzz.com/a/solutions/articles/10000067140",
       "requiredInstallationDate": "2023-06-13T00:00:00Z",
-      "requiredMinimumOSVersion": "13.4",
+      "requiredMinimumOSVersion": "13.6",
       "targetedOSVersionsRule": "13"
     }	
   ],
