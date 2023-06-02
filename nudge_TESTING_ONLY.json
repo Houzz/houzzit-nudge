@@ -24,7 +24,7 @@
       "targetedOSVersionsRule": "12"
     },
     {
-      "aboutUpdateURL": "jamfselfservice://content?entity=policy&id=2631&action=execute",
+      "aboutUpdateURL": "jamfselfservice://content?entity=policy&id=2631&action=view",
       "requiredInstallationDate": "2023-06-13T00:00:00Z",
       "requiredMinimumOSVersion": "13.6",
       "targetedOSVersionsRule": "13"
@@ -59,7 +59,7 @@
 				"mainContentHeader": "This update requires your device to restart",
 				"mainContentNote": "Please click the “How To Update?” link on the bottom left for a Toolbox article with a video and instructions how to proceed with the update or upgrade.",
 				"mainContentSubHeader": "Updates can take around an hour to complete.",
-				"mainContentText": "Your Houzz issued device requires a fully up-to-date operating system to ensure that IT can accurately protect your device.\n\nAs soon as you are able, please save and back up your work and install updates.\n\nThe update to macOS Ventura can take up to an hour to complete, please make sure you have the time allotted before starting the update.\n\nIf you have any questions, submit a ticket at https://toolbox.houzz.com/support/home.\n\n [UPGRADE](jamfselfservice://content?entity=policy&id=2631&action=execute)",
+				"mainContentText": "Your Houzz issued device requires a fully up-to-date operating system to ensure that IT can accurately protect your device.\n\nAs soon as you are able, please save and back up your work and install updates.\n\nThe update to macOS Ventura can take up to an hour to complete, please make sure you have the time allotted before starting the update.\n\nIf you have any questions, submit a ticket at https://toolbox.houzz.com/support/home.",
 				"mainHeader": "Action Required - Your device requires a security update",
 				"primaryQuitButtonText": "Ask Me Later",
 				"secondaryQuitButtonText": "I Understand",
