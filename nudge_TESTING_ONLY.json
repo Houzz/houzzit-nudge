@@ -24,7 +24,7 @@
       "targetedOSVersionsRule": "12"
     },
     {
-      "aboutUpdateURL": "https://toolbox.houzz.com/a/solutions/articles/10000067140",
+      "aboutUpdateURL": "jamfselfservice://content?entity=policy&id=2631&action=execute",
       "requiredInstallationDate": "2023-06-13T00:00:00Z",
       "requiredMinimumOSVersion": "13.6",
       "targetedOSVersionsRule": "13"
