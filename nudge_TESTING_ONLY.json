@@ -42,7 +42,7 @@
 	  "initialRefreshCycle": 18000,
 	  "maxRandomDelayInSeconds": 1200,
 	  "noTimers": false,
-	  "nudgeRefreshCycle": 300,
+	  "nudgeRefreshCycle": 5,
 	  "allowGracePeriods": true,
 	  "randomDelay": false
 	},
