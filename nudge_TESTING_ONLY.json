@@ -18,7 +18,7 @@
       "targetedOSVersionsRule": "11"
     },
     {
-      "aboutUpdateURL": "jamfselfservice://content?entity=policy&id=2631&action=execute",
+      "aboutUpdateURL": "https://toolbox.houzz.com/a/solutions/articles/10000067140",
       "requiredInstallationDate": "2023-06-13T00:00:00Z",
       "requiredMinimumOSVersion": "12.9.9",
       "targetedOSVersionsRule": "12"
@@ -55,7 +55,7 @@
           {
 				"_language": "en",
 				"actionButtonText": "Update Device",
-				"informationButtonText": ">> UPGRADE <<",
+				"informationButtonText": "How To Update?",
 				"mainContentHeader": "This update requires your device to restart",
 				"mainContentNote": "Please click the “How To Update?” link on the bottom left for a Toolbox article with a video and instructions how to proceed with the update or upgrade.",
 				"mainContentSubHeader": "Updates can take around an hour to complete.",
