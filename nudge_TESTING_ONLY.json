@@ -20,7 +20,7 @@
     {
       "aboutUpdateURL": "jamfselfservice://content?entity=policy&id=2631&action=execute",
       "requiredInstallationDate": "2023-06-13T00:00:00Z",
-      "requiredMinimumOSVersion": "12.6.6",
+      "requiredMinimumOSVersion": "12.7.6",
       "targetedOSVersionsRule": "12"
     },
     {
