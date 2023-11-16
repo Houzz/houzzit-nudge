@@ -32,7 +32,7 @@
     {
       "aboutUpdateURL": "https://toolbox.houzz.com/a/solutions/articles/10000067140",
       "requiredInstallationDate": "2023-11-01T00:00:00Z",
-      "requiredMinimumOSVersion": "14.1",
+      "requiredMinimumOSVersion": "14.1.1",
       "targetedOSVersionsRule": "14"
     }
   ],
